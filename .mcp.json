@@ -7,9 +7,9 @@
         "MCP_MODE": "stdio",
         "LOG_LEVEL": "error",
         "DISABLE_CONSOLE_OUTPUT": "true",
-        "N8N_API_URL": "https://auto.vivanz.com.br/",
-        "N8N_API_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyOGFhMjFiNi1iNWRhLTRhYWYtODkzMS02ZTIyMjQ0NWQ3ZmIiLCJpc3MiOiJuOG4iLCJhdWQiOiJwdWJsaWMtYXBpIiwianRpIjoiYmExZmE1NDktYWZjMy00ZTExLTg2MjQtYTUzZDZkMzhhMTNlIiwiaWF0IjoxNzc0MTc5NTM3fQ.CPoKKW_l3rXRQtNLAXodRoOyQH7XyY9zNNJkiUAkXJs"
+        "N8N_API_URL": "",
+        "N8N_API_KEY": ""
       }
     }
   }
-}
+}    
